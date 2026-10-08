@@ -1,0 +1,4 @@
+streamlit
+groq
+faiss
+sentence_transformers
