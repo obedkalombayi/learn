@@ -1,5 +1,5 @@
 import streamlit as st
-from for_deploiement.rag_by_API import ask, generate_quiz_item
+from rag_by_API import ask, generate_quiz_item
 
 st.set_page_config(
     page_title="Learn - Préparation Exetat",
